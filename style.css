@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding:0;
+	height:100vh;
+	width:100%;
+	background-color:salmon;
+	position: fixed;
+	
+}
+#particles-js{
+	height: 100%;
+	width:100%;
+	color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    background-image:url(salmondev.jpg);
+    background-size: 100%;
+    background-position: center;
+}
